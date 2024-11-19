@@ -1,51 +1,56 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# MUSICA PARA TODOS
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizar a IA para criação de letras de musicas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+chat gpt
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+descrever uma sensação utilizando uma historia e pedindo para o chat gpt criar frases e rimas
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+**"Amor Proibido"**  
 
+*(Verso 1 – Pessoa 1)*  
+Eu vejo em teus olhos, o céu que eu sonhei,  
+Mas o destino insiste em nos separar.  
+Cada toque é um segredo que guardei,  
+E cada passo é um adeus no mesmo lugar.  
+
+*(Verso 2 – Pessoa 2)*  
+Teu sorriso é meu refúgio, meu abrigo,  
+Mas o mundo tem muralhas pra nos conter.  
+Te amar assim é navegar sem ter destino,  
+É querer voar sabendo que vou me perder.  
+
+*(Refrão – Ambos)*  
+Amor proibido, que queima e acalma,  
+Nosso silêncio fala mais que mil palavras.  
+Entre os muros do tempo, somos só nós dois,  
+Um sonho eterno que nunca se desfaz.  
+
+*(Ponte – Pessoa 1)*  
+Eu te encontro nas canções que escrevo,  
+No vento que sussurra teu nome ao passar.  
+Mas viver de sonho é dor que carrego,  
+Amar sem ter, é mais que posso suportar.  
+
+*(Ponte – Pessoa 2)*  
+Se pudesse apagar as linhas do destino,  
+Reescrever nossa história sem dizer adeus.  
+Mas a vida nos põe em caminhos distintos,  
+Mesmo longe, meu coração é só teu.  
+
+*(Refrão – Ambos)*  
+Amor proibido, que queima e acalma,  
+Nosso silêncio fala mais que mil palavras.  
+Entre os muros do tempo, somos só nós dois,  
+Um sonho eterno que nunca se desfaz.  
+
+*(Final – Ambos)*  
+Mesmo que o tempo nos leve pra longe,  
+E as estrelas nos vejam em solidão,  
+Nosso amor viverá em cada acorde,  
+Eterno, gravado no coração.  
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A IA acaba ajudando a destravar nossa mente no processo criativo
